@@ -4,6 +4,9 @@
 # See the end of the file for more details and warnings about common mistakes.
 
 [app]
+p4a.branch = v2024.01.21
+android.ndk = 25b
+android.api = 33
 
 # (str) Title of your application
 title = BlockBlastEngine
